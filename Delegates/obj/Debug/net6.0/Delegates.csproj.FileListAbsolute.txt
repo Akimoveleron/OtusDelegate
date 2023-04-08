@@ -1,0 +1,15 @@
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Users\Emgrand\Desktop\OTUS\Delegates\Delegates\obj\Debug\net6.0\ref\Delegates.dll
